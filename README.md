@@ -36,8 +36,5 @@ Here's a summary of our key results:
 The comparison results in Tables 3 and 4 highlight the significant performance improvements achieved by the Transformer model compared to Azconvert rule-based and polyglot statistical methods. The trained transliteration model achieved impressive BLEU scores for both directions, despite the limited resources and calligraphy-related challenges.
 
 ### Contact
-For any questions or inquiries, please feel free to reach out to us at [email@example.com](mailto:email@example.com).
+For any questions or inquiries, please feel free to reach out to us at reihane.zohrabi@gmail.com.
 
----
-
-Please replace `[email@example.com](mailto:email@example.com)` with the actual contact information when you create your README file.
